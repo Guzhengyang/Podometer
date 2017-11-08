@@ -1,0 +1,7 @@
+#Thu Sep 07 15:32:08 CEST 2017
+base.0=C\:\\Users\\zgu4\\Documents\\Valeo\\CDD\\podometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_40a945cb9e6e8b0bf4c952c23211abd2be2c35fc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\zgu4\\Documents\\Valeo\\CDD\\podometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40006d7a625c66329600489640dec787b9dcdfdc\\classes.dex
+base.1=C\:\\Users\\zgu4\\Documents\\Valeo\\CDD\\podometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40006d7a625c66329600489640dec787b9dcdfdc
+file.0=C\:\\Users\\zgu4\\Documents\\Valeo\\CDD\\podometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_40a945cb9e6e8b0bf4c952c23211abd2be2c35fc\\classes.dex

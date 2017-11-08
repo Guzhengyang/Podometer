@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e1b301612ba4f81fcfc8704acddea8c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d281fdf3139c820b2ad0e53627ec795\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\323e50703b7f5682d3dca0fb5f7d1d2f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2ce01a13b69418727af943e57758123d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dca5240c01f4a0223f16cbc7cbb4e77a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd1f95fabc7ab4cb1346eef78d750898\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0de60899d2ab2b73c72aaad61a46b147\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\601826dbb178e3245755af00bf94d730\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fa2aa4bd7689bc6fd2cb0cebedcbe940\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:5:5-6:23
+	android:name
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:7:5-8:23
+	android:name
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:10:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e1b301612ba4f81fcfc8704acddea8c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e1b301612ba4f81fcfc8704acddea8c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d281fdf3139c820b2ad0e53627ec795\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d281fdf3139c820b2ad0e53627ec795\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\323e50703b7f5682d3dca0fb5f7d1d2f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\323e50703b7f5682d3dca0fb5f7d1d2f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2ce01a13b69418727af943e57758123d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2ce01a13b69418727af943e57758123d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dca5240c01f4a0223f16cbc7cbb4e77a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dca5240c01f4a0223f16cbc7cbb4e77a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd1f95fabc7ab4cb1346eef78d750898\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd1f95fabc7ab4cb1346eef78d750898\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0de60899d2ab2b73c72aaad61a46b147\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0de60899d2ab2b73c72aaad61a46b147\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\601826dbb178e3245755af00bf94d730\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\601826dbb178e3245755af00bf94d730\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fa2aa4bd7689bc6fd2cb0cebedcbe940\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fa2aa4bd7689bc6fd2cb0cebedcbe940\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.valeo.podometer.activity.MainActivity
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:16:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e1b301612ba4f81fcfc8704acddea8c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e1b301612ba4f81fcfc8704acddea8c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d281fdf3139c820b2ad0e53627ec795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d281fdf3139c820b2ad0e53627ec795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\323e50703b7f5682d3dca0fb5f7d1d2f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\323e50703b7f5682d3dca0fb5f7d1d2f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2ce01a13b69418727af943e57758123d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2ce01a13b69418727af943e57758123d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dca5240c01f4a0223f16cbc7cbb4e77a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dca5240c01f4a0223f16cbc7cbb4e77a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd1f95fabc7ab4cb1346eef78d750898\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd1f95fabc7ab4cb1346eef78d750898\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0de60899d2ab2b73c72aaad61a46b147\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0de60899d2ab2b73c72aaad61a46b147\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\601826dbb178e3245755af00bf94d730\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\601826dbb178e3245755af00bf94d730\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fa2aa4bd7689bc6fd2cb0cebedcbe940\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fa2aa4bd7689bc6fd2cb0cebedcbe940\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zgu4\Documents\Valeo\CDD\Podometer\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d281fdf3139c820b2ad0e53627ec795\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\7d281fdf3139c820b2ad0e53627ec795\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\323e50703b7f5682d3dca0fb5f7d1d2f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\323e50703b7f5682d3dca0fb5f7d1d2f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2ce01a13b69418727af943e57758123d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2ce01a13b69418727af943e57758123d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dca5240c01f4a0223f16cbc7cbb4e77a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\dca5240c01f4a0223f16cbc7cbb4e77a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd1f95fabc7ab4cb1346eef78d750898\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd1f95fabc7ab4cb1346eef78d750898\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0de60899d2ab2b73c72aaad61a46b147\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0de60899d2ab2b73c72aaad61a46b147\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\601826dbb178e3245755af00bf94d730\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\601826dbb178e3245755af00bf94d730\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fa2aa4bd7689bc6fd2cb0cebedcbe940\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fa2aa4bd7689bc6fd2cb0cebedcbe940\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\l-zgu4\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\be9ba299c8491c885e915ce7bce696c3\AndroidManifest.xml:26:9-47

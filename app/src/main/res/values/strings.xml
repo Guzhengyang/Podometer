@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Podometer</string>
+    <string name="enable_step_count_beep">Enable step count beep</string>
+    <string name="enable_step_detect_beep">Enable step detect beep</string>
+    <string name="step_count">Step Count = %d</string>
+    <string name="step_detect">Step Detect = %d</string>
+    <string name="gravity">Gravity: </string>
+    <string name="lin_acc">Lin Acc: </string>
+    <string name="acc">Acc: </string>
+    <string name="magnetic">Magnet: </string>
+    <string name="gyroscope">Gyros: </string>
+    <string name="orientation">Orientation: </string>
+    <string name="earth_acc">Global Acc: </string>
+    <string name="values">x = %1$.2f  y = %2$.2f  z = %3$.2f</string>
+    <string name="orientation_values">Azimuth = %1$.1f  Pitch = %2$.1f  Roll = %3$.1f</string>
+    <string name="reset_counters">Reset counters</string>
+</resources>
